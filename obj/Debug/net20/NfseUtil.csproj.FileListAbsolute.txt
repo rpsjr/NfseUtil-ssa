@@ -1,0 +1,2 @@
+/Users/rpsjr/Downloads/NfseUtil.dll_Decompiler.com/obj/Debug/net20/NfseUtil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rpsjr/Downloads/NfseUtil.dll_Decompiler.com/obj/Debug/net20/NfseUtil.csproj.CoreCompileInputs.cache

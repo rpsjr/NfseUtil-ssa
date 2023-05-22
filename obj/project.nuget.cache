@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LrwMURCvbf2kV4U5OsF1qsg0oQMN1T7ejT3NLF3L8LS2mD5La61x8i+L6PovAwaU/1BqTFgD/YY2K/iknj5h1Q==",
+  "success": true,
+  "projectFilePath": "/Users/rpsjr/Downloads/NfseUtil.dll_Decompiler.com/NfseUtil.csproj",
+  "expectedPackageFiles": [
+    "/Users/rpsjr/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/Users/rpsjr/.nuget/packages/microsoft.netframework.referenceassemblies.net20/1.0.3/microsoft.netframework.referenceassemblies.net20.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

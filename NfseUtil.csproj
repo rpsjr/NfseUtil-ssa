@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>NfseUtil</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net20</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml">
+      <HintPath>/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.10/System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security">
+      <HintPath>/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.10/System.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <HintPath>/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.10/System.Runtime.Serialization.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
